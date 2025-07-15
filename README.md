@@ -195,6 +195,7 @@ To build and run all services with Docker:
 
 ---
 
-## License
-
-MIT License. See [LICENSE](LICENSE)
+Contact
+Anis Toauti
+Senior .NET Developer | Cloud & DevOps Enthusiast
+LinkedIn | GitHub | Montréal, QC
