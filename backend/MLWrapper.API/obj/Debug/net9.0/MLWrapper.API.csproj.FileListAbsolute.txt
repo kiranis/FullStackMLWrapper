@@ -30,3 +30,4 @@ c:\Projects\FullStackMLWrapper\backend\MLWrapper.API\obj\Debug\net9.0\refint\MLW
 c:\Projects\FullStackMLWrapper\backend\MLWrapper.API\obj\Debug\net9.0\MLWrapper.API.pdb
 c:\Projects\FullStackMLWrapper\backend\MLWrapper.API\obj\Debug\net9.0\MLWrapper.API.genruntimeconfig.cache
 c:\Projects\FullStackMLWrapper\backend\MLWrapper.API\obj\Debug\net9.0\ref\MLWrapper.API.dll
+c:\Projects\FullStackMLWrapper\backend\MLWrapper.API\obj\Debug\net9.0\MLWrapper.API.sourcelink.json
