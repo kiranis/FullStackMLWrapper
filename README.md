@@ -195,7 +195,8 @@ To build and run all services with Docker:
 
 ---
 
-Contact
-Anis Toauti
-Senior .NET Developer | Cloud & DevOps Enthusiast
-LinkedIn | GitHub | Montréal, QC
+## Contact
+
+**Anis Toauti**  
+Senior .NET Developer | Cloud & DevOps Enthusiast  
+[LinkedIn](https://www.linkedin.com/in/anis-toauti) | [GitHub](https://github.com/kiranis) | Montréal, QC
