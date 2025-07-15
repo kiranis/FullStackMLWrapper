@@ -1,0 +1,9 @@
+<div >
+        @for (item of [
+          { title: 'Call Loan Form', link: './loan-form.component.html' }
+        ]; track item.title) {
+          <a class="pill" [href]="item.link" rel="noopener">
+            <span>{{ item.title }}</span>
+          </a>
+        }
+      </div>

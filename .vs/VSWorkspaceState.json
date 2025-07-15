@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\backend",
+    "\\backend\\MLWrapper.API",
+    "\\backend\\MLWrapper.API\\Controllers",
+    "\\backend\\MLWrapper.API\\Services",
+    "\\frontend",
+    "\\k8s",
+    "\\python-ml"
+  ],
+  "SelectedNode": "\\python-ml\\app.py",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,21 @@
+<form (ngSubmit)="submit()">
+  <label>
+    Income:
+    <input type="number" [(ngModel)]="input.income" name="income" required>
+  </label>
+  <br>
+  <label>
+    Age:
+    <input type="number" [(ngModel)]="input.age" name="age" required>
+  </label>
+  <br>
+  <label>
+    Credit Score:
+    <input type="number" [(ngModel)]="input.creditScore" name="creditScore" required>
+  </label>
+  <br>
+  <button type="submit">Submit</button>
+</form>
+<div>
+  <h3>Prediction Result: {{ result }}</h3>
+</div>
