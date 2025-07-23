@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Projects\\FullStackMLWrapper\\backend\\MLWrapper.API\\MLWrapper.API.csproj": {}
+    "C:\\Projects\\FullStackMLWrapper\\backend\\MLWrapper.API\\MLWrapper.API.csproj": {}
   },
   "projects": {
-    "c:\\Projects\\FullStackMLWrapper\\backend\\MLWrapper.API\\MLWrapper.API.csproj": {
+    "C:\\Projects\\FullStackMLWrapper\\backend\\MLWrapper.API\\MLWrapper.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Projects\\FullStackMLWrapper\\backend\\MLWrapper.API\\MLWrapper.API.csproj",
+        "projectUniqueName": "C:\\Projects\\FullStackMLWrapper\\backend\\MLWrapper.API\\MLWrapper.API.csproj",
         "projectName": "MLWrapper.API",
-        "projectPath": "c:\\Projects\\FullStackMLWrapper\\backend\\MLWrapper.API\\MLWrapper.API.csproj",
+        "projectPath": "C:\\Projects\\FullStackMLWrapper\\backend\\MLWrapper.API\\MLWrapper.API.csproj",
         "packagesPath": "C:\\Users\\e-nis\\.nuget\\packages\\",
-        "outputPath": "c:\\Projects\\FullStackMLWrapper\\backend\\MLWrapper.API\\obj\\",
+        "outputPath": "C:\\Projects\\FullStackMLWrapper\\backend\\MLWrapper.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
